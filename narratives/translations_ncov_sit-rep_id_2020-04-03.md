@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Analisis genomik penyebaran COVID-19. Laporan keadaan per 03-04-2020.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,8 +20,12 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Erwin Sentausa
+  - Iskandar Adnan
 translatorLinks:
-date: "2020 April 03"
+  - https://www.linkedin.com/in/sentausa
+  - 
+date: "3 April 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
 ---
