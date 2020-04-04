@@ -53,7 +53,7 @@ abstract: "Laporan ini menggunakan data genomik yang terbuka untuk melacak penye
 Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membandingkan genom virus ini satu sama lain, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak di seluruh dunia dan menyebar dalam masyarakat. Dalam pembaruan pekan ini, kami melaporkan:
 
 **Afrika**  
-* Bukti adanya setidaknya dua rantai transmisi berbeda yang menyebar secara lokal di Senegal  
+* Bukti adanya setidaknya dua rantai penularan berbeda yang menyebar secara lokal di Senegal  
 * Penyebaran lokal berlanjut di Republik Demokratik Congo  
 
 **Asia**  
@@ -61,11 +61,11 @@ Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membanding
 
 **Eropa**  
 * Sekuensing secara luas di Islandia menunjukkan tingkat penyebaran yang berkaitan dengan perjalanan
-* Riwayat perjalanan menunjukkan adanya transmisi lokal di Austria
+* Riwayat perjalanan menunjukkan adanya penularan lokal di Austria
 
 **Amerika Utara**   
 * Percampuran meluas di seluruh AS  
-* Kemungkinan besar dua rantai transmisi lokal beredar di Ontario  
+* Kemungkinan besar dua rantai penularan lokal beredar di Ontario  
 
 **Daerah lain di dunia**
 <br>
