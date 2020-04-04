@@ -247,19 +247,19 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Apa yang dapat anda lakukan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...sebagai pribadi
+* Lakukan perenggangan sosial secara ketat.
+* Meskipun anda tidak rentan, lakukan perenggangan sosial untuk melindungi orang lain.
+* Cuci tangan anda "seperti baru saja mengiris cabe rawit dan harus mengganti lensa kontak anda."  
+* Sedapat mungkin tidak keluar rumah -- terutama jika anda sakit; bersiaplah dengan pelindung diri yang cukup.  
+* Jika anda seorang majikan, sebisa mungkin doronglah karyawan anda untuk bekerja dari rumah.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...sebagai pemerintah  
+* Sediakan tes secara gratis dan jangkau seluas mungkin.  
+* Terapkan perenggangan sosial secara tegas.
+* Danai dan terapkan usaha pelacakan kontak dan isolasi secara luas.  
+* Dukung keuangan mereka yang terdampak oleh penerapan perenggangan sosial.
 
 
 <!-- This is the right-side text -->
@@ -284,20 +284,20 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Kredit ilmiah](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini, terutama mereka yang bekerja di Cina.
+Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Kami juga menyampaikan penghargaan kepada GISAID yang telah menyediakan platform sehingga data ini dapat dimuat dan dibagikan.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Kami berterima kasih atas sumbangan data yang dikumpulkan oleh lab berikut:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -616,19 +616,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
+Kami sangat menghargai dan berterima kasih atas kontribusi mereka.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Di sebelah kanan kami mencantumkan sekuens spesifik yang dibagikan setiap lab.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genom SARS-CoV-2 disumbangkan oleh para ilmuwan di lab berikut:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
