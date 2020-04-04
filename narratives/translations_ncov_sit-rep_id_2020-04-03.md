@@ -24,10 +24,10 @@ translators:
   - Iskandar Adnan
 translatorLinks:
   - https://www.linkedin.com/in/sentausa
-  - 
+  - https://scholar.google.com/citations?user=eBn0ToYAAAAJ&hl=id&oi=ao
 date: "3 April 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Laporan ini menggunakan data gemonik yang terbuka untuk melacak penyebaran COVID-19. Laporan ini diperbarui tiap pekan."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -35,32 +35,32 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Daftar Isi](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
 * [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
 * [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Pembaruan untuk Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Pembaruan untuk Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Pembaruan untuk Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Pembaruan untuk Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Apa yang dapat anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Kontribusi ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Ringkasan
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membandingkan genom, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak di seluruh dunia dan menyebar dalam masyarakat. Dalam pembaruan pekan ini, kami melaporkan:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**Afrika**  
+* Petunjuk adanya setidaknya dua rantai transmisi berbeda yang menyebar secara lokal di Senegal  
+* Penyebaran lokal berlanjut di Republik Demokratik Congo  
 
 **Asia**  
 * Recent introductions to Japan are cruiseship-associated
 
 **Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
+* Sekuensing besar-besaran di Islandia menunjukkan  demonstrates the extent of travel-associated spread
 * Travel histories suggest local transmission in Austria
 
 **North America**   
