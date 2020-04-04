@@ -151,11 +151,11 @@ Ini menunjukkan bahwa hCoV-19 mungkin telah beredar di Touba selama sekitar 3 mi
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Penyebaran lokal berlanjut di Republik Demokratik Kongo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+Kami menerima 8 genom baru minggu ini dari Kinshasa di Republik Demokratik Kongo.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+Semua sampel baru tersebut, kecuali satu, mengelompok di dalam klaster wabah lokal yang [kami laporkan minggu lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Ini menunjukkan bahwa ada penularan lokal yang sedang berlangsung di Kongo, dan tindakan cepat harus diambil untuk membatasi wabah tersebut.
 
 
 
