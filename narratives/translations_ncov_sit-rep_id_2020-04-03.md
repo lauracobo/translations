@@ -78,37 +78,37 @@ Kami sangat menghargai pihak-pihak yang bekerja untuk menghasilkan data tambahan
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [Informasi mengenai COVID-19](https://nextstrain.org/ncov/2020-03-27)
+Kami telah menyiapkan sejumlah informasi yang dapat dibaca untuk membuat Anda lebih mengenali COVID-19 dan virus yang menyebabkannya, SARS-CoV-2, juga dikenal sebagai hCov-19.
+Informasi ini akan memudahkan interpretasi data yang kami sajikan dalam narasi ini.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+Bila Anda tidak terbiasa membaca pohon filogenetik, kami sarankan Anda membaca ['Cara membaca pohon filogenetik'](https://nextstrain.org/narratives/trees-background/) dan kembali lagi ketika Anda sudah siap.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Informasi dari Nextstrain  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Cara membaca pohon filogenetik](https://nextstrain.org/narratives/trees-background/).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Latar belakang mengenai koronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Latar belakang mengenai wabah hCoV-19](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[Tanya jawab](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Kesalahpahaman umum](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## Informasi dari situs lain  
+[Laporan Keadaan dari WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[Pusat Pengendalian dan Pencegahan Penyakit Amerika Serikat (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[Liputan COVID-19 oleh *The New York Times*](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[*Our World in Data*](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[*Ask a Scientist* ("tanyakan pada ilmuwan")](https://covid19.fas.org/l/en).
 
 
 ```
