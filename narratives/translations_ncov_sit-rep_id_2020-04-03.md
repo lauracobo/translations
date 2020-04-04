@@ -140,13 +140,13 @@ Meskipun demikian, ini tidak berarti bahwa tidak ada kasus COVID-19 di tempat la
 <!-- This is left-side text 5-->
 # [Dua rantai penularan lokal beredar di Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Di sini, kami melihat dua klaster kasus dari Senegal. Kedua klaster ini tidak menyatu, menandakan hasil dari sekurangnya dua introduksi terpisah. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
-<br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
-<br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+Di sini, kita melihat dua klaster kasus dari Senegal. Kedua klaster ini tidak menyatu, menandakan hasil dari sekurangnya dua introduksi terpisah. Masing-masing klaster ini terdiri dari kasus-kasus terkait erat yang diambil sampelnya dalam waktu singkat, menunjukkan terjadinya penularan lokal.
+<br> <br>
+Klaster yang ditunjukkan di bagian atas pohon filogenetik terdiri dari kasus-kasus yang diisolasi di Dakar antara 28 Februari dan 4 Maret.
+Ini menunjukkan bahwa hCoV-19 kemungkinan telah beredar secara lokal di Dakar selama setidaknya 1 bulan.
+<br> <br>
+Di tengah pohon filogenetik terdapat klaster kasus yang diisolasi di Touba antara 10 Maret dan 12 Maret.
+Ini menunjukkan bahwa hCoV-19 mungkin telah beredar di Touba selama sekitar 3 minggu.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
