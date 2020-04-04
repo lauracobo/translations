@@ -27,7 +27,7 @@ translatorLinks:
   - https://scholar.google.com/citations?user=eBn0ToYAAAAJ&hl=id&oi=ao
 date: "3 April 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "Laporan ini menggunakan data gemonik yang terbuka untuk melacak penyebaran COVID-19. Laporan ini diperbarui tiap pekan."
+abstract: "Laporan ini menggunakan data genomik yang terbuka untuk melacak penyebaran COVID-19. Laporan ini diperbarui tiap pekan."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -37,41 +37,41 @@ abstract: "Laporan ini menggunakan data gemonik yang terbuka untuk melacak penye
 <!-- This is left-side text 1-->
 # [Daftar Isi](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2)     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3)
+* [Bacaan latar belakang](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2)     
+* [Catatan mengenai pengambilan sampel](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3)
 * [Pembaruan untuk Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4)
 * [Pembaruan untuk Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7)
 * [Pembaruan untuk Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9)
 * [Pembaruan untuk Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12)
-* [Apa yang dapat anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15)
+* [Apa yang dapat Anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15)
 * [Kontribusi ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # Ringkasan
 
-Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membandingkan genom, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak di seluruh dunia dan menyebar dalam masyarakat. Dalam pembaruan pekan ini, kami melaporkan:
+Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membandingkan genom virus ini satu sama lain, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak di seluruh dunia dan menyebar dalam masyarakat. Dalam pembaruan pekan ini, kami melaporkan:
 
 **Afrika**  
-* Petunjuk adanya setidaknya dua rantai transmisi berbeda yang menyebar secara lokal di Senegal  
+* Bukti adanya setidaknya dua rantai transmisi berbeda yang menyebar secara lokal di Senegal  
 * Penyebaran lokal berlanjut di Republik Demokratik Congo  
 
 **Asia**  
-* Penularan terkini ke Jepang terasosiasi kapal pesiar
+* Penularan terkini ke Jepang berkaitan dengan kapal pesiar
 
-**Europe**  
-* Sekuensing secara luas di Islandia menunjukkan menunjukkan penyebaran terasosiasi perjalanan
-* Riwayat perjalanan mengesankan transmisi lokal di Austria
+**Eropa**  
+* Sekuensing secara luas di Islandia menunjukkan tingkat penyebaran yang berkaitan dengan perjalanan
+* Riwayat perjalanan menunjukkan adanya transmisi lokal di Austria
 
-**North America**   
-* Banyak percampuran di di seluruh AS  
+**Amerika Utara**   
+* Percampuran meluas di seluruh AS  
 * Kemungkinan besar dua rantai transmisi lokal beredar di Ontario  
 
-**Other areas of the world**
+**Daerah lain di dunia**
 <br>
-Kami juga telah menerima genom virus baru dari Amerika Selatan dan Oseania. Kebanyakan sampel baru ini terpencar di seluruh pohon dan berkelompok dengan sampel lain dari wilayah lain. Tanpa data kontekstual lebih lengkap, kami belum dapat menggambarkan inferensi mengenai sekuens baru ini.
+Kami juga telah menerima sejumlah genom virus baru dari Amerika Selatan dan Oseania. Kebanyakan sampel baru ini terpencar di seluruh pohon filogenetik dan berkelompok dengan sampel dari wilayah-wilayah lain. Namun demikian, tanpa data kontekstual lebih lengkap, kami belum dapat menarik kesimpulan mengenai sekuens-sekuens baru ini.
 <br><br>
-Kami sangat menghargai kelompok yang dapat memberikan data tambahan untuk wilayah ini. As more specific inferences become possible, we will immediately share those findings.
+Kami sangat menghargai pihak-pihak yang bekerja untuk menghasilkan data tambahan untuk wilayah-wilayah ini. Jika kami sudah dapat membuat kesimpulan yang lebih spesifik, kami akan segera membagikan temuan tersebut.
 ```
 
 
