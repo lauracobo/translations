@@ -43,8 +43,8 @@ abstract: "Laporan ini menggunakan data genomik yang terbuka untuk melacak penye
 * [Pembaruan untuk Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7)
 * [Pembaruan untuk Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9)
 * [Pembaruan untuk Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12)
-* [Apa yang dapat Anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15)
-* [Kontribusi ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16)
+* [Apa yang dapat anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15)
+* [Kredit ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -54,7 +54,7 @@ Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membanding
 
 **Afrika**  
 * Bukti adanya setidaknya dua rantai penularan berbeda yang menyebar secara lokal di Senegal  
-* Penyebaran lokal berlanjut di Republik Demokratik Congo  
+* Penyebaran lokal berlanjut di Republik Demokratik Kongo  
 
 **Asia**  
 * Penularan terkini ke Jepang berkaitan dengan kapal pesiar
@@ -138,9 +138,9 @@ Meskipun demikian, ini tidak berarti bahwa tidak ada kasus COVID-19 di tempat la
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Dua rantai penularan lokal beredar di Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+Di sini, kami melihat dua klaster kasus dari Senegal. Kedua klaster ini tidak menyatu, menandakan hasil dari sekurangnya dua introduksi terpisah. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
 <br><br>
 The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
 This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
