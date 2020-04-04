@@ -108,7 +108,7 @@ Bila Anda tidak terbiasa membaca pohon filogenetik, kami sarankan Anda membaca [
 
 [*Our World in Data*](https://ourworldindata.org/coronavirus).
 
-[*Ask a Scientist* ("tanyakan pada ilmuwan")](https://covid19.fas.org/l/en).
+[*Ask a Scientist* ("tanyakanlah pada ilmuwan")](https://covid19.fas.org/l/en).
 
 
 ```
@@ -116,12 +116,12 @@ Bila Anda tidak terbiasa membaca pohon filogenetik, kami sarankan Anda membaca [
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
-<br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
-<br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+# [Catatan mengenai pengambilan sampel](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+Saat ini kami memiliki sekuens dari sampel yang diambil di 53 negara di 6 benua. Ini adalah prestasi yang luar biasa -- melakukan sekuensing virus RNA besar dan belum dikenal di tengah-tengah pandemi merupakan hal yang sulit, dan hanya mungkin dilakukan melalui kerja luar biasa dan pembagian data yang tepat waktu oleh para ilmuwan dan dokter di seluruh dunia.
+<br> <br>
+Meskipun data ini memungkinkan kami untuk menyimpulkan banyak karakteristik berguna dari wabah ini dan melacak penyebarannya secara langsung, kami harus menekankan bahwa kesimpulan kami dibatasi oleh data yang tersedia.
+<br> <br>
+Sebagai contoh, peta di samping menunjukkan hanya ada relatif sedikit sekuens dari belahan bumi selatan. Ini BUKAN karena COVID-19 tidak beredar di daerah-daerah ini, atau bahwa kasus-kasus ini tidak begitu penting untuk dipahami; melainkan, kami hanya tidak memiliki banyak data yang tersedia dari area ini. Ukuran setiap lingkaran pada peta menunjukkan berapa banyak data yang saat ini tersedia dari area itu, dan bukan ukuran wabah sebenarnya.
 
 <!-- There is NO right-side text -->
 
