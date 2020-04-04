@@ -37,14 +37,14 @@ abstract: "Laporan ini menggunakan data gemonik yang terbuka untuk melacak penye
 <!-- This is left-side text 1-->
 # [Daftar Isi](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Pembaruan untuk Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Pembaruan untuk Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Pembaruan untuk Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Pembaruan untuk Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [Apa yang dapat anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Kontribusi ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2)     
+* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3)
+* [Pembaruan untuk Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4)
+* [Pembaruan untuk Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7)
+* [Pembaruan untuk Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9)
+* [Pembaruan untuk Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12)
+* [Apa yang dapat anda lakukan](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15)
+* [Kontribusi ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -57,21 +57,21 @@ Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membanding
 * Penyebaran lokal berlanjut di Republik Demokratik Congo  
 
 **Asia**  
-* Recent introductions to Japan are cruiseship-associated
+* Penularan terkini ke Jepang terasosiasi kapal pesiar
 
 **Europe**  
-* Sekuensing besar-besaran di Islandia menunjukkan  demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+* Sekuensing secara luas di Islandia menunjukkan menunjukkan penyebaran terasosiasi perjalanan
+* Riwayat perjalanan mengesankan transmisi lokal di Austria
 
 **North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+* Banyak percampuran di di seluruh AS  
+* Kemungkinan besar dua rantai transmisi lokal beredar di Ontario  
 
 **Other areas of the world**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+Kami juga telah menerima genom virus baru dari Amerika Selatan dan Oseania. Kebanyakan sampel baru ini terpencar di seluruh pohon dan berkelompok dengan sampel lain dari wilayah lain. Tanpa data kontekstual lebih lengkap, kami belum dapat menggambarkan inferensi mengenai sekuens baru ini.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+Kami sangat menghargai kelompok yang dapat memberikan data tambahan untuk wilayah ini. As more specific inferences become possible, we will immediately share those findings.
 ```
 
 
