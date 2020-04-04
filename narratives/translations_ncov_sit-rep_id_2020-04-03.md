@@ -129,10 +129,10 @@ Sebagai contoh, peta di samping menunjukkan hanya ada relatif sedikit sekuens da
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Pembaruan untuk Afrika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+Kami memiliki pembaruan minggu ini untuk Senegal dan Republik Demokratik Kongo.
+Meskipun demikian, ini tidak berarti bahwa tidak ada kasus COVID-19 di tempat lain di Afrika; ini hanya tempat kami memiliki cukup data untuk dapat mulai membuat kesimpulan.
 <!-- There is no right side text -->
 
 
