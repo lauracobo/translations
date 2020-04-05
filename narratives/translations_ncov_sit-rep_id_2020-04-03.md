@@ -168,7 +168,7 @@ Ini menunjukkan bahwa ada penularan lokal yang sedang berlangsung di Kongo, dan 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Penularan terkini ke Jepang berkaitan dengan kapal pesiar](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Introduksi terkini ke Jepang berkaitan dengan kapal pesiar](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
 Dari 16 sekuens terakhir yang ditambahkan dari Jepang, 10 memiliki sejarah perjalanan dengan kapal pesiar di Sungai Nil. Setelah didiagnosis dan disampel di Jepang, keenam belas sekuens tersebut terbagi antara dua klaster. Menariknya, kedua klaster ini tidak terhubung dengan sekuens Jepang atau Asia lainnya, tetapi termasuk dalam klaster yang ditemukan terutama di AS dan Eropa.
 <br><br>
