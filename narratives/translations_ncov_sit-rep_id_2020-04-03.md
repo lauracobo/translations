@@ -180,20 +180,20 @@ Dengan demikian, nampaknya para wisatawan Jepang ini terinfeksi oleh galur virus
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Pembaruan untuk Eropa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Sekuensing besar-besaran di Islandia menyorot tingkat penyebaran terkait perjalanan](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+Baru-baru ini kami menerima 301 sekuens -- dari 25\% [kasus terkonfirmasi]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- dari Islandia.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+Mewarnai setiap sampel sesuai dengan riwayat perjalanannya, kami melihat hampir separuh dari infeksi ini didapat di luar Islandia, sementara sisanya diduga tertular secara lokal (warna kelabu).
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+Sebagaimana [laporan kami pekan lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ini menggarisbawahi banyaknya percampuran antara wabah di tiap negara Eropa.
+Untuk setiap sampel yang diperiksa, kami dapat menyimpulkan dari mana berasal, namun kami tidak dapat mengesampingkan kemungkinan penularan tidak langsung dari wilayah yang tidak terambil sampelnya.
 <!-- There is no right side text -->
 
 
