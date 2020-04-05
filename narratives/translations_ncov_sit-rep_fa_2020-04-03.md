@@ -20,8 +20,9 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Arman 
+  - Arman Karshenas
   - Marziye Jafariyazani
+  - Mahan Ghafari
 translatorLinks:
   - https://twitter.com/ArmanKarshenas
   - https://twitter.com/
@@ -84,7 +85,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 # [منابع کووید ۱۹ ](https://nextstrain.org/ncov/2020-03-27)
 ما منابع گوناگون دیگری که ارزش خواندن برای آشنایی با کووید-۱۹ و ویروس ایجاد‌کننده‌ی آن یعنی سارس-کووید-۲ دارند آماده کرده‌ایم تا با آن‌ها آشنا شوید. این اطلاعات تفسیر داده‌های ارائه شده در این گزارش را آسان‌تر می‌کند.
 <br><br>
-اگر با درخت‌های ژنتیکی آشنا نیستید، ما شما را تشویق می‌کنیم تا به این‌جا مراجعه کنید ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/fa) و پس از مطالعه به این‌جا بازگردید.
+اگر با درخت‌های ژنتیکی آشنا نیستید، ما شما را تشویق می‌کنیم تا به این‌جا مراجعه کنید [شرح چگونه خواندن درخت ژنتیکی](https://nextstrain.org/narratives/trees-background/fa) و پس از مطالعه به این‌جا بازگردید.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -94,7 +95,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 
 [پیش درآمدی بر ویروس کرونا](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[پیش‌زمینه‌ای درباره همه‌گیری اخیر کووید ۱۹] (https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[پیش‌زمینه‌ای درباره همه‌گیری اخیر کووید ۱۹](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
 [سوالات متدوال](https://nextstrain.org/help/coronavirus/FAQ).
 
@@ -297,7 +298,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+ما قدردان داده‌های جمع‌آوری شده توسط گروه‌های آزمایشگاهی زیر هستیم:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -626,7 +627,7 @@ We are grateful for the data gathered by these originating labs:
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+داده‌های ژنتیکی سارس-کووید-۲ با لطف دانشمندان گروه‌های تحقیقاتی زیر یه اشتراک گذاشته شده‌اند:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
