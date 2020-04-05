@@ -185,8 +185,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [نمونه توالی ژنتیکی گسترده انجام شده توسط کشور ایسلند گسترش بیماری توسط مسافران را نشان می‌دهد
-](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [نمونه توالی ژنتیکی گسترده انجام شده توسط کشور ایسلند گسترش بیماری توسط مسافران را نشان می‌دهد](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 ما ۳۰۱ نمونه توالی ژنتیکی از ۲۵ درصد مبتلایان
  [مبتلایان قطعی]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf))  در کشور ایسلند دریافت کردیم.
 <br><br>
@@ -233,7 +232,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [ وجود دو حلقه انتقال منطقه‌ای در آنتاریو کانادا](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [وجود دو حلقه انتقال منطقه‌ای در آنتاریو کانادا](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 در این‌جا، دو خوشه از نمونه‌های توالی ژنتیکی در آنتاریو را مشاهده می‌کنیم. این دو شاخه با هم در یک گروه قرار نگرفته و هرکدام در کنار نمونه‌هایی از کشور‌های دیگر قرار می‌گیرد. این بیان‌گر این موضوع است که این دو شاخه توسط دو منشا مجزا وارد کانادا شده‌اند.
 <br><br>
 اما در هر کدام از خوشه‌ها، هر بیمار به سایر مبتلایان در آنتاریو مرتبط است که نشان دهنده احتمال بالای انتقال منطقه‌ای است. 
