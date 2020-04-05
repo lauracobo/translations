@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: آنالیز ژنتیکی شیوع ویروس کووید-۱۹. شرح گزارش ۳ آوریل ۲۰۲۰.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,10 +20,15 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Arman 
+  - Marziye Jafariyazani
 translatorLinks:
-date: "2020 April 03"
+  - https://twitter.com/ArmanKarshenas
+  - https://twitter.com/
+  - https://twitter.com/mahan_ghafari
+date: "سوم آوریل ۲۰۲۰"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "این گزارش از داده‌های کووید-۱۹ که در اختیار عموم گذاشته‌شده استفاده می‌کند. این گزارش‌ها هر هفته بروز رسانی می‌شود."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,80 +36,81 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [فهرست مطالب](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [منابع پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [یادداشتی درباره نمونه گیری](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [اطلاعات به روز برای قاره آفریقا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [اطلاعات به روز برای قاره آسیا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [اطلاعات به روز برای قاره اروپا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [اطلاعات به روز برای قاره آمریکا شمالی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [کارهایی که شما میتوانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# شرح اجرایی
+در این‌جا، ۲۵۴۴ داده ژنتیکی کووید-۱۹ را که به اشتراک عموم گذاشته‌شده است بررسی می‌کنیم. با مقایسه این اطلاعات می‌توانیم مشخص کنیم که کووید-۱۹ چگونه در جهان منتشر می‌شود. در به روز رسانی این هفته گزارش می‌کنیم:
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+*قاره آفریقا**  
+* شواهدی مبنی بر وجود حداقل دو حلقه انتقال منطقه‌ای مجزا در کشور سنگال 
+* ادامه شیوع منطقه‌ای در جمهوری کنگو
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**قاره آسیا**  
+*ارتباط بیمارهای اخیر در ژاپن با کشتی تفریحی کروز 
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**قاره اروپا**  
+* تعدد نمونه‌های توالی ژنتیکی انجام شده توسط کشورایسلند که نشان دهنده میزان شیوع ناشی از سفر است.
+* سوابق سفرها نشان دهنده انتقال منطقه‌ای در کشور اتریش است.
 
-**Other areas of the world**
+
+**قاره آمریکا شمالی**   
+* درهم‌آمیختگی (ژنتیکی) گسترده بیمارها در سراسر آمریکا
+* احتمال وجود دو حلقه سرایت منطقه‌ای در آنتاریو کانادا
+
+**سایر مناطق جهان**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+ ما نمونه‌های توالی ژنتیکی جدیدی از قاره‌های آمریکای جنوبی و اقیانوسیه دریافت کرده‌ایم. بسیاری از این نمونه‌های جدید بر روی قسمت‌های مختلف نمودار درختی پراکنده شده‌اند و در کنار نمونه‌های قسمت‌های دیگر دنیا قرار می‌گیرند. در حال حاضر بدون در اختیار داشتن شواهد بیشتر، قادر به نتیجه‌گیری درباره این نمونه‌های توالی ژنتیکی نیستیم.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+  گروه‌هایی که در حال جمع‌آوری داده‌های بیشتر در این مناطق هستند را تحسین می‌کنیم و به محض دریافت نتیجه‌گیری‌های جزئی‌تر، این یافته‌ها را به اشتراک می‌گذاریم. 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [منابع کووید ۱۹ ](https://nextstrain.org/ncov/2020-03-27)
+ما منابع گوناگون دیگری که ارزش خواندن برای آشنایی با کووید-۱۹ و ویروس ایجاد‌کننده‌ی آن یعنی سارس-کووید-۲ دارند آماده کرده‌ایم تا با آن‌ها آشنا شوید. این اطلاعات تفسیر داده‌های ارائه شده در این گزارش را آسان‌تر می‌کند.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+اگر با درخت‌های ژنتیکی آشنا نیستید، ما شما را تشویق می‌کنیم تا به این‌جا مراجعه کنید ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/fa) و پس از مطالعه به این‌جا بازگردید.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain منابع  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[چگونه تبارزایش (فیلوژنتیک) را بخوانید](https://nextstrain.org/narratives/trees-background/).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[پیش درآمدی بر ویروس کرونا](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[پیش‌زمینه‌ای درباره همه‌گیری اخیر کووید ۱۹] (https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[سوالات متدوال](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[باور‌های نادرست و متداول](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## منابع فراتر  
+[گزارش وضعیت سازمان بهداشت جهانی](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[منابع CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[پوشش خبری مجله نیویورک تایمز درباره همه‌گیری کویید-۱۹](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Our World in Data سایت](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[از یک دانشمند بپرسید و سوالات متداول](https://covid19.fas.org/l/en).
 
 
 ```
@@ -112,12 +118,13 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [یادداشتی در مورد نمونه‌گیری](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+ما در حال حاضر از ۵۳ کشور در ۶ قاره نمونه‌های توالی ژنتیکی داریم. این یک دستاورد باور نکردنی است ، به این خاطر که نمونه‌گیری از توالی ژنتیکی یک ویروس بزرگ آر‌ان‌ای ناشناخته در بحبوحه یک همه‌گیری جهانی دشوار است و فقط با تلاش باورنکردنی و به اشتراک‌گذاری به موقع داده‌ها توسط دانشمندان و پزشکان سراسر جهان امکان‌پذیر است. 
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+
+در حالی که این داده‌ها به ما این امکان را می‌دهد که بسیاری از خصوصیات مهم این شیوع را استنباط کرده و موقعیت زمانی و مکانی آن را ردیابی کنیم، تأکید می‌شود که نتیجه‌گیری‌های ما محدود به داده‌های موجود است .
 <br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+به عنوان مثال، در نقشه‌ی روی این سایت نمونه‌های توالی ژنتیکی بسیار کمی از کشورهای نیم‌کره جنوبی نشان داده شده است. این دلیل آن نیست که کووید-۱۹ در این مناطق پخش نمی‌شود یا این موارد برای درک ما از شیوع ویروس چندان مهم نیستند، بلکه نشان می‌دهد ما داده‌های زیادی از این مناطق نداریم. اندازه‌ی هر دایره روی نقشه نشان می‌دهد که چه مقدار داده در حال حاضر از آن منطقه در دسترس است و به معنای گستره‌ی همه‌گیری نیست .
 
 <!-- There is NO right-side text -->
 
@@ -125,50 +132,45 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
-
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+# [به روزرسانی اطلاعات قاره آفریقا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+در گزارش این هفته اطلاعات به‌روز شده‌ای درباره کشور‌های سنگال و جمهوری کنگو داریم. قابل توجه است که این به معنی عدم حضور کووید-۱۹ در سایر نقاط قاره آفریقا نیست و تنها به این معنی است که ما داده‌های کافی برای شروع نتیجه‌گیری را تنها برای این دو کشور در اختیار داریم. 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
-
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+# [دو حلقه انتقال منطقه‌ای در کشور سنگال](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+در این‌جا ما دو خوشه بیماری را در کشور سنگال مشاهده می کنیم. این خوشه‌ها به یک گروه تعلق ندارند که نشان‌دهنده این است که توسط حداقل دو منشا مختلف وارد کشور شده‌اند. هر کدام از این خوشه‌ها متشکل از بیمار‌هایی است که در یک بازه کوتاه زمانی مورد نمونه برداری قرار گرفته‌اند که با سرایت منطقه‌ای همخوانی دارد. 
 <br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+خوشه نشان داده شده در بالای نمودار درختی متشکل از بیمارانی است که در شهر داکار بین ۲۸ فوریه و ۴ مارس نمونه‌گیری شده‌اند. این شواهد احتمالا بیانگر انتقال منطقه‌ای بیماری کووید ۱۹ در شهر داکر به مدت حداقل یک ماه است.
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+خوشه دیگری از بیماران در شهر توبا که در فاصله زمانی ۱۰ تا ۱۲ مارس مورد نمونه‌گیری قرار گرفته‌اند در میانه نمودار درختی قابل مشاهده است. این بیانگر این است که بیماری کویید-۱۹ در توبا، حدود ۳ هفته است که در حال انتقال است. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [ادامه انتقال منطقه‌ای در کشور جمهوری کنگو](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+ما در این هفته ۸ نمونه توالی ژنتیکی از شهر کینساشا در کشور جمهوری کنگو دریافت کردیم. 
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+تمامی نمونه‌های دریافتی به استثنا یک مورد در خوشه همه‌گیری منطقه‌ای قرار دارند که در گزارش هفته پیش به آن اشاره شد. 
+ [گزارش هفته پیش](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-03-27?n=16).
+ این  نشان دهنده سرایت  منطقه ای ادامه دار در جمهوری کنگو است و اقدامات سریع برای جلوگیری از شیوع بیماری ضروری است.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [به‌روزرسانی اطلاعات قاره آسیا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
-
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+# [ورود مجدد بیماری به ژاپن مربوط به کشتی کروز تفریحی است.](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+از میان ۱۶ نمونه توالی ژنتیکی دریافت شده از کشور ژاپن‌، ۱۰ مورد در کشتی کروز تفریحی در رودخانه نیل حضور داشته‌اند. تمامی ۱۶ بیمار پس از تشخیص و نمونه‌گیری در ژاپن، میان دو خوشه تقسیم می‌شوند. جالب توجه است که این دو خوشه با سایر نمونه‌های توالی ژنتیکی گرفته شده از آسیا و ژاپن ارتباطی نداشته و زیرمجموعه خوشه‌هایی هستند که بیشتر در اروپا و آمریکا قابل مشاهده هستند. 
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+به همین دلیل،  به نظر می‌رسد که مسافران ژاپنی توسط گونه‌هایی از ویروس که در مسافران آمریکایی و اروپایی که به مصر سفر کرده‌اند وجود داشته است، مبتلا شده‌اند. از آن‌جا که این بیماران در اواسط ماه مارس و بعد از بازگشت مسافران به ژاپن نمونه‌گیری شده‌اند، می‌توان نتیجه گرفت که گونه‌هایی از ویروس که عمدتا در آمریکا و اروپا قابل مشاهده بودند در اوایل مارس توسط مسافران به سایر نقاط جهان انتقال داده شدند.
 <!-- There is no right side text -->
 
 
@@ -176,66 +178,68 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [به‌روزرسانی اطلاعات قاره اروپا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [نمونه توالی ژنتیکی گسترده انجام شده توسط کشور ایسلند گسترش بیماری توسط مسافران را نشان می‌دهد
+](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+ما ۳۰۱ نمونه توالی ژنتیکی از ۲۵ درصد مبتلایان
+ [مبتلایان قطعی]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf))  در کشور ایسلند دریافت کردیم.
+<br><br>
+رنگ‌بندی هر کدام از نمونه‌ها با توجه به سابقه سفر هر بیمار نشان می‌دهد که به طور تقریبی نیمی از این بیماران خارج از ایسلند مبتلا به این ویروس شده‌اند. این در حالی است که گمان می رود نیمه‌ی دیگر این افراد (که با رنگ طوسی نشان داده شده‌اند) از طریق انتقال منطقه‌ای مبتلا شده‌اند.
+<br><br>
+همان‌طور که [در هفته قبل گزارش کردیم](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-03-27?n=5), 
+این نشان‌دهنده وسعت ترکیب همه‌گیری‌ها در هر کدام از کشور‌های اروپایی است.
+ برای هر کدام از نمونه‌ها، می‌توان استنباط کرد که ابتلا از کدام مناطق بوده است اما نمی‌توان احتمال انتقال غیر مستقیم از مناطق بدون داده را رد کرد.
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
-<br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
-<br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+ 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [سوابق سفر بیانگر انتقال منطقه‌ای در کشور اتریش است](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+این مثال خوبی است که نشان می‌دهد چگونه نمونه‌گیری توالی ژنتیکی گسترده و ثبت سوابق سفر‌ها در یک کشور به ما در درک بهتر شرایط محلی در سایر نقاط، حتی نقاطی که هنوز هیچ داده توالی ژنتیکی جمع‌آوری نمی‌کنند، کمک می‌کند.
+<br><br>
+با بررسی بیمارانی که پس از سفر به اتریش از آن‌ها در ایسلند نمونه توالی ژنتیکی گرفته شده، می‌توان خوشه‌های متعددی از بیماران مرتبط اتریشی را مشاهده کرد که در یک بازه زمانی کوتاه نمونه‌برداری شده‌اند.
+این شواهد بااین سناریو که افراد متعددی این ویروس را وارد اتریش کرده‌اند، بیشترین همخوانی را دارد. ما نمی توانیم اطمینان داشته باشیم که ارتباط نزدیک نمونه‌های توالی ژنتیکی بیان‌گر انتقال منطقه‌ای در اتریش و یا افرادی که با هم سفر کرده‌اند و در معرض یک گونه ویروس قرار گرفته‌اند، هستند.
+<br><br>
+همان‌طور که با رنگ طوسی نشان داده شده است، تعداد ارتباطات میان کشورهای اروپایی قابل توجه است. به نظر می‌رسد که در اغلب کشور‌های اروپایی، ویروس توسط افراد متعددی وارد کشور شده و نمی‌توان به  سادگی انتقال و گسترش ویروس در اروپا را توضیح داد - ویروس به احتمال بالا از هفته‌های گذشته به صورت گسترده در حال پخش بوده است.
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
-<br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
-<br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [به‌روزرسانی اطلاعات آمریکای شمالی](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
-
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+# [ترکیب گسترده بیمارها در سراسر آمریکا](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+در حالی که ما اطلاعات کامل‌تری در ارتباط با همه‌گیری در آمریکا دریافت می‌کنیم، این حقیقت شفاف‌تر می‌شود که همه‌گیری‌های منطقه‌ای نتیجه ترکیب‌شدن گسترده بیماران در آمریکا است. 
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+در حالی که بسیاری از بیماران هفته‌های اولیه ابتلایشان مرتبط با سفر بوده است، تعداد زیادی از بیماران جدید در بسیاری از ایالات آمریکا با هم در سراسر نمودار درختی گره خورده و مرتبط هستند. 
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+این بیانگر اهمیت و لزوم یک استراتژی یک‌پارچه برای توقف این شیوع است.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
-
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+# [ وجود دو حلقه انتقال منطقه‌ای در آنتاریو کانادا](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+در این‌جا، دو خوشه از نمونه‌های توالی ژنتیکی در آنتاریو را مشاهده می‌کنیم. این دو شاخه با هم در یک گروه قرار نگرفته و هرکدام در کنار نمونه‌هایی از کشور‌های دیگر قرار می‌گیرد. این بیان‌گر این موضوع است که این دو شاخه توسط دو منشا مجزا وارد کانادا شده‌اند.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+اما در هر کدام از خوشه‌ها، هر بیمار به سایر مبتلایان در آنتاریو مرتبط است که نشان دهنده احتمال بالای انتقال منطقه‌ای است. 
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+بنا بر این مشاهدات، نتیجه می‌گیریم که انتقال منطقه‌ای در آنتاریو احتمالا حداقل از سوم مارس جریان داشته است.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+جالب توجه است که بسیاری از نمونه‌های توالی ژنتیکی مجاور (قسمت های محو شده) از آمریکا نشات گرفته که خود نشان دهنده ترکیب قابل توجه میان این دو کشور است.
 <!-- There is no right side text -->
 
 
@@ -243,33 +247,36 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [کارهایی که شما می توانید انجام دهید](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...به عنوان یک فرد
+* فاصله اجتماعی را جدی گرفته و رعایت کنید.
+* حتی اگر شما در گروه آسیب پذیر نیستید، برای مراقبت از دیگران فاصله اجتماعی را رعایت کنید.
+* دست‌هایتان را بشویید، درست مانند زمانی که تسمه کولرتان را عوض کرده‌اید
+* تا جایی که می توانید در خانه بمانید، مخصوصااگر بیمار هستید، با مقداری آذوقه اضافی خود را برای قرنطینه شخصی آماده کنید.
+* اگر کارفرما هستید، کارمندان خود را ترغیب کنید که تاجایی که امکان پذیر است از خانه کار کنند، و مخصوصاهنگام مریضی در خانه بمانند و به عنوان مثال مرخصی با حقوق به آن‌ها بدهید.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
 
+#### ...به عنوان یک مسئول رسمی 
+* فرایند نمونه‌گیری را رایگان و گسترده کنید. 
+* فاصله‌گیری اجتماعی را در دستور کار قرار دهید.
+* ارتباطات افراد مشکوک به بیماری را رهگیری کنید.
+*از اجرای گسترده رهگیری افراد در تماس با مبتلایان، حمایت مالی کنید.
+* از کسانی که به واسطه فاصله‌گیری اجتماعی تحت تاثیر قرار می‌گیرند، مانند کارگران ساعتی، کسانی که از افراد مسن و کودکان مراقبت می‌کنند و کسب و کار های کوچک و غیره حمایت مالی کنید.
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
 # Takeaways
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### 
+ما شواهدی مبنی بر انتقال منطقه‌ای در سنگان و جمهوری کنگو یافته‌ایم. اقدامات سریعی برای جلوگیری از شیوع در این مناطق آسیب‌پذیر باید انجام گیرد. ما هنوز داده کافی برای تحلیل وضعیت باقی مناطق آفریقا نداریم. 
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### ورود مجدد بیماری به ژاپن مربوط به کشتی کروز تفریحی است.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### نمونه‌گیری‌های توالی ژنتیکی گسترده در ایسلند، نشان‌دهنده میزان بالای شیوع ناشی از سفر و احتمالا بیان‌گر انتقال منطقه‌ای در اتریش نیز هست. 
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### بیماران سراسر آمریکا روی نمودار درختی در هم آمیخته‌اند، که نشان‌دهنده میزان بالای شیوع بین ایالت‌های مختلف است. همچنین شواهدی مبنی بر ترکیب بیماران بین مرز آمریکا و کانادا و همجنین انتقال منطقه‌ای در آنتاریو کانادا وجود دارد.
+
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -280,14 +287,11 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
-
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-
+# [اعتبار علمی](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+ما از تلاش شگفت‌انگیز و به موقع انجام‌شده همه‌ی دانشمندان در حال کار بر روی این همه‌گیری جهانی و به ویژه افرادی که در کشور چین کار می‌کنند قدردانی می کنیم، که با به اشتراک‌ گذاری سریع داده‌های ژنتیکی و داده‌های آماری خود تحلیل‌های این‌ چنینی را برای ما ممکن می‌سازد.
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+با سپاس و قدردانی از GISAID برای در اختیار گذاشتن این پلتفرم که از طریق آن داده‌ها بارگذاری و به اشتراک گذاشته‌ می شوند.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
@@ -612,15 +616,13 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [لیست کامل اعتبار علمی](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+این داده ها توسط [GISAID](https://gisaid.org) به اشتراک گذاشته شدند و ما از مشارکت آن ها بسیار قدردانی می کنیم.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
-
+در سمت راست، توالی‌های خاصی را که توسط هر آزمایشگاه به اشتراک گذاشته شده را نام می‌بریم.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
