@@ -199,14 +199,14 @@ Kami dapat menyimpulkan leluhur setiap sampel yang diperiksa, namun kami tidak d
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Riwayat perjalanan mengungkapkan terjadinya penularan lokal di Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+Ini juga merupakan contoh yang sangat baik tentang bagaimana upaya sekuensing dan pencatatan perjalanan yang komprehensif oleh satu negara dapat membantu kita memahami situasi lokal di tempat lain, bahkan untuk tempat-tempat yang belum memiliki data sekuensing.
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
-<br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+Mengingat adanya kasus-kasus yang disekuensing di Islandia setelah melaporkan perjalanan ke Austria, kami melihat beberapa klaster kasus Austria yang terkait erat, disekuensing dalam waktu singkat.
+Ini paling sesuai dengan skenario adanya beberapa kali introduksi ke Austria. Kami tidak dapat memastikan apakah sekuens yang berkaitan itu mewakili penularan komunitas di Austria atau sesama pelancong yang terhubung setelah terpapar dengan galur virus yang sama.
+<br> <br>
+Meskipun ditunjukkan dalam warna kelabu, kita dapat sangat melihat banyaknya koneksi antara berbagai negara Eropa. Sebagian besar negara Eropa tampaknya mengalami beberapa kali introduksi, sehingga tidak ada skenario 'sederhana' tentang bagaimana virus ini telah menyebar ke seluruh Eropa - kemungkinan sudah menyebar secara luas beberapa minggu yang lalu.
 
 
 
