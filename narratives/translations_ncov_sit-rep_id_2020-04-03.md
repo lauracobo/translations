@@ -162,17 +162,17 @@ Ini menunjukkan bahwa ada penularan lokal yang sedang berlangsung di Kongo, dan 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Pembaruan untuk Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Penularan terkini ke Jepang berkaitan dengan kapal pesiar](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+Dari 16 sekuens terakhir yang ditambahkan dari Jepang, 10 memiliki sejarah perjalanan dengan kapal pesiar di Sungai Nil. Setelah didiagnosis dan disampel di Jepang, keenam belas sekuens tersebut terbagi antara dua klaster. Menariknya, kedua klaster ini tidak terhubung dengan sekuens Jepang atau Asia lainnya, tetapi termasuk dalam klaster yang ditemukan terutama di AS dan Eropa.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Dengan demikian, nampaknya para wisatawan Jepang ini terinfeksi oleh galur virus yang mereka jumpai dari orang Eropa dan Amerika lainnya yang mengunjungi Mesir. Karena sekuens sampel-sampel tersebut diambil pada pertengahan Maret, setelah para pelancong itu kembali ke Jepang, ini adalah bukti bahwa varian yang beredar terutama di Eropa dan AS telah diekspor ke seluruh dunia pada awal Maret melalui perjalanan internasional.
 <!-- There is no right side text -->
 
 
