@@ -85,13 +85,13 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 # [منابع کووید ۱۹ ](https://nextstrain.org/ncov/2020-03-27)
 ما منابع گوناگون دیگری که ارزش خواندن برای آشنایی با کووید-۱۹ و ویروس ایجاد‌کننده‌ی آن یعنی سارس-کووید-۲ دارند آماده کرده‌ایم تا با آن‌ها آشنا شوید. این اطلاعات تفسیر داده‌های ارائه شده در این گزارش را آسان‌تر می‌کند.
 <br><br>
-اگر با درخت‌های ژنتیکی آشنا نیستید، ما شما را تشویق می‌کنیم تا به این‌جا مراجعه کنید [شرح چگونه خواندن درخت ژنتیکی](https://nextstrain.org/narratives/trees-background/fa) و پس از مطالعه به این‌جا بازگردید.
+اگر با درخت‌های ژنتیکی آشنا نیستید، ما شما را تشویق می‌کنیم تا به این‌جا مراجعه کنید [چگونه تبارزایش (فیلوژنتیک) را بخوانید](https://nextstrain.org/narratives/trees-background/fa) و پس از مطالعه به این‌جا بازگردید.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
 ## Nextstrain منابع  
 
-[چگونه تبارزایش (فیلوژنتیک) را بخوانید](https://nextstrain.org/narratives/trees-background/).  
+[چگونه تبارزایش (فیلوژنتیک) را بخوانید](https://nextstrain.org/narratives/trees-background/fa).  
 
 [پیش درآمدی بر ویروس کرونا](https://nextstrain.org/help/coronavirus/human-CoV).
 
