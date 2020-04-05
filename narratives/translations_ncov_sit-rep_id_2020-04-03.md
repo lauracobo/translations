@@ -188,12 +188,12 @@ Dengan demikian, nampaknya para wisatawan Jepang ini terinfeksi oleh galur virus
 <!-- This is left-side text 10-->
 # [Sekuensing besar-besaran di Islandia menyorot tingkat penyebaran terkait perjalanan](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-Baru-baru ini kami menerima 301 sekuens -- dari 25\% [kasus terkonfirmasi]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- dari Islandia.
+Baru-baru ini kami menerima 301 sekuens -- dari 25\% [kasus terkonfirmasi](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- dari Islandia.
 <br><br>
-Mewarnai setiap sampel sesuai dengan riwayat perjalanannya, kami melihat hampir separuh dari infeksi ini didapat di luar Islandia, sementara sisanya diduga tertular secara lokal (warna kelabu).
+Jika setiap sampel diwarnai sesuai dengan riwayat perjalanannya, kita lihat hampir separuh dari infeksi ini didapat di luar Islandia, sementara sisanya diduga tertular secara lokal (warna kelabu).
 <br><br>
-Sebagaimana [laporan kami pekan lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ini menggarisbawahi banyaknya percampuran antara wabah di tiap negara Eropa.
-Untuk setiap sampel yang diperiksa, kami dapat menyimpulkan dari mana berasal, namun kami tidak dapat mengesampingkan kemungkinan penularan tidak langsung dari wilayah yang tidak terambil sampelnya.
+Sebagaimana [kami laporkan pekan lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ini menggarisbawahi banyaknya percampuran antara wabah di tiap negara Eropa.
+Kami dapat menyimpulkan leluhur setiap sampel yang diperiksa, namun kami tidak dapat mengesampingkan kemungkinan penularan tidak langsung dari wilayah yang tidak terambil sampelnya.
 <!-- There is no right side text -->
 
 
