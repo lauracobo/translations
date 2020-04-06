@@ -235,11 +235,11 @@ Hal ini menegaskan pentingnya strategi terpadu untuk menghentikan KLB.
 
 Di sini, kami melihat dua klaster sekuens dari Ontario. Masing-masing klaster berkelompok dengan sampel dari negara lain, tidak tergabung dalam satu kelompok, menunjukkan bahwa mereka merupakan hasil dari dua introduksi terpisah.
 <br><br>
-Meskipun demikian, dalam tiap klaster , Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Meskipun demikian, masing-masing kasus dalam tiap klaster ini terhubung paling dekat dengan kasus lainnya dari Ontario, menandakan bahwa ini merupakan penularan komunitas lokal.
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+Dari sini, kami menyimpulkan adanya kemungkinan penularan komunitas di Ontario setidaknya sejak 3 Maret.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Yang menarik, kebanyakan sekuens sekelilingnya (ujung samar) berasal dari AS, yang menyarankan adanya percampuran yang signifikan antara kedua negara.
 <!-- There is no right side text -->
 
 
@@ -265,15 +265,15 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Ringkasan
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### Kami menemukan petunjuk adanya penularan lokal di Senegal dan Kongo. Tindakan cepat harus dilakukan untuk mengatasi KLB di wilayah yang rentan ini. Kami tidak memiliki cukup data untuk dapat menganalisis keadaan di wilayah Afrika lainnya.
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### Introduksi terkini ke Jepang berasosiasi dengan perjalanan kapal pesiar.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### Sekuensing besar-besaran oleh Islandia menggarisbawahi menyoroti jangkauan penyebaran berasosiasi perjalanan dan mengungkapkan kemungkinan kecenderungan transmisi lokal di Austria.  
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### Kasus di seantero AS berbaur di pohon filogenetik, menunjukkan penyebaran luas melintasi batas negara bagian. Terdapat juga petunjuk percampuran lintas AS-Kanada dan penularan lokal di Ontario.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
