@@ -25,7 +25,7 @@ translators:
   - Mahan Ghafari
 translatorLinks:
   - https://twitter.com/ArmanKarshenas
-  - https://twitter.com/
+  - https://github.com/marziye-jy
   - https://twitter.com/mahan_ghafari
 date: "سوم آوریل ۲۰۲۰"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
@@ -39,14 +39,14 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 <!-- This is left-side text 1-->
 # [فهرست مطالب](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [منابع پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [یادداشتی درباره نمونه گیری](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [اطلاعات به روز برای قاره آفریقا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [اطلاعات به روز برای قاره آسیا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [اطلاعات به روز برای قاره اروپا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [اطلاعات به روز برای قاره آمریکا شمالی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [کارهایی که شما میتوانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [منابع پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=2).     
+* [یادداشتی درباره نمونه گیری](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=3).
+* [اطلاعات به روز برای قاره آفریقا](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=4).
+* [اطلاعات به روز برای قاره آسیا](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=7).
+* [اطلاعات به روز برای قاره اروپا](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=9).
+* [اطلاعات به روز برای قاره آمریکا شمالی](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=12).
+* [کارهایی که شما میتوانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=15).
+* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -89,7 +89,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain منابع  
+## منابع Nextstrain 
 
 [چگونه تبارزایش (فیلوژنتیک) را بخوانید](https://nextstrain.org/narratives/trees-background/fa).  
 
@@ -99,7 +99,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 
 [سوالات متدوال](https://nextstrain.org/help/coronavirus/FAQ).
 
-[باور‌های نادرست و متداول](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[باور‌های نادرست و متداول](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-03-13?n=11).
 
 
 ## منابع فراتر  
@@ -187,7 +187,7 @@ abstract: "این گزارش از داده‌های کووید-۱۹ که در ا
 <!-- This is left-side text 10-->
 # [نمونه توالی ژنتیکی گسترده انجام شده توسط کشور ایسلند گسترش بیماری توسط مسافران را نشان می‌دهد](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 ما ۳۰۱ نمونه توالی ژنتیکی از ۲۵ درصد مبتلایان
- [مبتلایان قطعی]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf))  در کشور ایسلند دریافت کردیم.
+ [مبتلایان قطعی](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)  در کشور ایسلند دریافت کردیم.
 <br><br>
 رنگ‌بندی هر کدام از نمونه‌ها با توجه به سابقه سفر هر بیمار نشان می‌دهد که به طور تقریبی نیمی از این بیماران خارج از ایسلند مبتلا به این ویروس شده‌اند. این در حالی است که گمان می رود نیمه‌ی دیگر این افراد (که با رنگ طوسی نشان داده شده‌اند) از طریق انتقال منطقه‌ای مبتلا شده‌اند.
 <br><br>
