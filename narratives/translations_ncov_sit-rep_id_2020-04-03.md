@@ -213,29 +213,29 @@ Meskipun ditunjukkan dalam warna kelabu, kita dapat sangat melihat banyaknya kon
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Pembaruan untuk Amerika Utara](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Percampuran luas di AS](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+Dengan semakin didapatkannya gambaran yang lebih lengkap di AS, jelas terlihat bahwa KLB terlokalisasi ini merupakan hasil dari percampuran yang luas.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+Sementara kasus-kasus awal terkait riwayat perjalanan, kasus yang lebih baru dari banyak negara bagian kebanyakan berupa pembauran sepanjang pohon filogenetiknya.   
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Hal ini menegaskan pentingnya strategi terpadu untuk menghentikan KLB.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Dua rantai penularan lokal beredar di Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+Di sini, kami melihat dua klaster sekuens dari Ontario. Masing-masing klaster berkelompok dengan sampel dari negara lain, tidak tergabung dalam satu kelompok, menunjukkan bahwa mereka merupakan hasil dari dua introduksi terpisah.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Meskipun demikian, dalam tiap klaster , Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
 <br><br>
 From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
 <br><br>
